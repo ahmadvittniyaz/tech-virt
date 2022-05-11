@@ -1,0 +1,97 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 17/04/2018 19:15
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-quote:before { content: "\f100"; }
+.flaticon-group:before { content: "\f101"; }
+.flaticon-trophy:before { content: "\f102"; }
+.flaticon-cup:before { content: "\f103"; }
+.flaticon-layers-3:before { content: "\f104"; }
+.flaticon-layers-2:before { content: "\f105"; }
+.flaticon-layers-1:before { content: "\f106"; }
+.flaticon-arrows-16:before { content: "\f107"; }
+.flaticon-arrows-15:before { content: "\f108"; }
+.flaticon-arrows-14:before { content: "\f109"; }
+.flaticon-arrows-13:before { content: "\f10a"; }
+.flaticon-arrows-12:before { content: "\f10b"; }
+.flaticon-arrows-11:before { content: "\f10c"; }
+.flaticon-arrows-10:before { content: "\f10d"; }
+.flaticon-arrows-9:before { content: "\f10e"; }
+.flaticon-arrows-8:before { content: "\f10f"; }
+.flaticon-arrows-7:before { content: "\f110"; }
+.flaticon-arrows-6:before { content: "\f111"; }
+.flaticon-up-arrow:before { content: "\f112"; }
+.flaticon-remove:before { content: "\f113"; }
+.flaticon-menu:before { content: "\f114"; }
+.flaticon-fullscreen:before { content: "\f115"; }
+.flaticon-skip:before { content: "\f116"; }
+.flaticon-previous:before { content: "\f117"; }
+.flaticon-arrows-5:before { content: "\f118"; }
+.flaticon-arrows-4:before { content: "\f119"; }
+.flaticon-arrows-3:before { content: "\f11a"; }
+.flaticon-left-arrow-1:before { content: "\f11b"; }
+.flaticon-arrows-2:before { content: "\f11c"; }
+.flaticon-arrows-1:before { content: "\f11d"; }
+.flaticon-left-arrow:before { content: "\f11e"; }
+.flaticon-right-arrow:before { content: "\f11f"; }
+.flaticon-multimedia-2:before { content: "\f120"; }
+.flaticon-multimedia-1:before { content: "\f121"; }
+.flaticon-note-2:before { content: "\f122"; }
+.flaticon-telephone:before { content: "\f123"; }
+.flaticon-placeholder:before { content: "\f124"; }
+.flaticon-headphones:before { content: "\f125"; }
+.flaticon-technology-2:before { content: "\f126"; }
+.flaticon-technology-1:before { content: "\f127"; }
+.flaticon-computer-1:before { content: "\f128"; }
+.flaticon-graphic:before { content: "\f129"; }
+.flaticon-edit:before { content: "\f12a"; }
+.flaticon-networking:before { content: "\f12b"; }
+.flaticon-businessman:before { content: "\f12c"; }
+.flaticon-settings:before { content: "\f12d"; }
+.flaticon-scheme:before { content: "\f12e"; }
+.flaticon-bar-chart:before { content: "\f12f"; }
+.flaticon-left:before { content: "\f130"; }
+.flaticon-left-quotes-sign:before { content: "\f131"; }
+.flaticon-social:before { content: "\f132"; }
+.flaticon-note-1:before { content: "\f133"; }
+.flaticon-envelope:before { content: "\f134"; }
+.flaticon-technology:before { content: "\f135"; }
+.flaticon-phone-settings:before { content: "\f136"; }
+.flaticon-old:before { content: "\f137"; }
+.flaticon-computer:before { content: "\f138"; }
+.flaticon-note:before { content: "\f139"; }
+.flaticon-arrows:before { content: "\f13a"; }
+.flaticon-favorite:before { content: "\f13b"; }
+.flaticon-signs:before { content: "\f13c"; }
+.flaticon-can:before { content: "\f13d"; }
+.flaticon-construction:before { content: "\f13e"; }
+.flaticon-cogwheel:before { content: "\f13f"; }
+.flaticon-layers:before { content: "\f140"; }
+.flaticon-drawing-1:before { content: "\f141"; }
+.flaticon-drawing:before { content: "\f142"; }
+.flaticon-multimedia:before { content: "\f143"; }

@@ -1,0 +1,193 @@
+Array
+(
+    [id] => 306773
+    [url] => https://saia.3dlook.me/api/v2/persons/306773/
+    [gender] => male
+    [height] => 196
+    [weight] => 36.2873896
+    [created] => 2021-07-06T12:44:57.774888Z
+    [task_set] => Array
+        (
+            [is_ready] => true
+            [sub_tasks] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => measurement_model_processing
+                            [status] => SUCCESS
+                            [message] => 
+                            [task_id] => 8639a81a-4908-45c4-8efb-66964a86f173
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => front_processing
+                            [status] => SUCCESS
+                            [message] => 
+                            [task_id] => 063f90fc-53a2-49ed-996e-1c11ab118afc
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => side_processing
+                            [status] => SUCCESS
+                            [message] => 
+                            [task_id] => 6b307d6d-4804-48e5-9b9a-7b2bba632475
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => side_skeleton_processing
+                            [status] => SUCCESS
+                            [message] => 
+                            [task_id] => 4342a420-1130-4f5b-b7ea-a507a5ee83a7
+                        )
+
+                    [4] => Array
+                        (
+                            [name] => front_skeleton_processing
+                            [status] => SUCCESS
+                            [message] => 
+                            [task_id] => ba3b43b1-716f-4a5a-95f6-e508afcaafc0
+                        )
+
+                )
+
+            [is_successful] => true
+        )
+
+    [is_viewed] => false
+    [ip_address] => 47.15.8.12
+    [photo_flow] => friend
+    [is_archived] => false
+    [side_params] => Array
+        (
+            [neck_to_chest] => 27.05
+            [chest_to_waist] => 21.96
+            [waist_to_ankle] => 118.22
+            [shoulders_to_knees] => 115.13
+            [side_neck_point_to_upper_hip] => 58.32
+            [side_upper_hip_level_to_knee] => 57.05
+        )
+
+    [country_code] => IN
+    [country_name] => India
+    [front_params] => Array
+        (
+            [neck] => 14.42
+            [rise] => 27.98
+            [waist] => 32.88
+            [inseam] => 80.95
+            [outseam] => 125.75
+            [chest_top] => 38.64
+            [high_hips] => 36.15
+            [shoulders] => 45.98
+            [hip_height] => 103.61
+            [body_height] => 55.22
+            [bust_height] => 145.07
+            [knee_height] => 57.8
+            [neck_length] => 10.34
+            [clothes_type] => Array
+                (
+                    [types] => Array
+                        (
+                            [top] => Array
+                                (
+                                    [code] => t0
+                                    [detail] => tight top
+                                )
+
+                            [bottom] => Array
+                                (
+                                    [code] => b0
+                                    [detail] => skinny bottom
+                                )
+
+                        )
+
+                )
+
+            [torso_height] => 82.04
+            [waist_height] => 127.17
+            [crotch_length] => 35.8
+            [jacket_length] => 79.43
+            [sleeve_length] => 69.59
+            [shoulder_slope] => 23.73
+            [waist_to_knees] => 69.37
+            [shoulder_length] => 14.13
+            [underarm_length] => 54.12
+            [back_neck_height] => 170.21
+            [lower_arm_length] => 30.38
+            [upper_arm_length] => 35.21
+            [upper_hip_height] => 112.8
+            [across_back_width] => 40.69
+            [inside_leg_height] => 91.37
+            [shoulder_to_waist] => 49.01
+            [waist_to_low_hips] => 23.56
+            [back_crotch_length] => 44.69
+            [outer_ankle_height] => 10.42
+            [back_shoulder_width] => 50.86
+            [front_crotch_length] => 37.08
+            [total_crotch_length] => 84.59
+            [upper_knee_to_ankle] => 54.27
+            [back_neck_to_hip_length] => 70.92
+            [upper_hip_to_hip_length] => 9.19
+            [nape_to_waist_centre_back] => 54.2
+            [side_neck_point_to_armpit] => 23.29
+            [across_back_shoulder_width] => 47.94
+            [abdomen_to_upper_knee_length] => 52.3
+            [inside_crotch_length_to_calf] => 55.91
+            [inside_crotch_length_to_knee] => 36.83
+            [outseam_from_upper_hip_level] => 109.92
+            [back_neck_point_to_wrist_length] => 89.26
+            [inside_crotch_length_to_mid_thigh] => 20.4
+            [back_neck_point_to_wrist_length_1_5_inch] => 93.63
+            [inside_leg_length_to_the_1_inch_above_the_floor] => 87.86
+        )
+
+    [volume_params] => Array
+        (
+            [calf] => 39.56
+            [knee] => 39.12
+            [neck] => 41.87
+            [ankle] => 27.85
+            [bicep] => 32.96
+            [chest] => 110.27
+            [thigh] => 61.08
+            [waist] => 94.78
+            [wrist] => 18.09
+            [abdomen] => 98.01
+            [forearm] => 29.38
+            [low_hips] => 105.35
+            [high_hips] => 100
+            [neck_girth] => 38.94
+            [elbow_girth] => 29.21
+            [armscye_girth] => 51
+            [overarm_girth] => 126.36
+            [mid_thigh_girth] => 50.71
+            [under_bust_girth] => 101.51
+            [upper_bicep_girth] => 38.04
+            [upper_chest_girth] => 109.65
+            [neck_girth_relaxed] => 40.5
+            [thigh_1_inch_below_crotch] => 64.87
+        )
+
+    [phone_position] => Array
+        (
+            [sidePhoto] => Array
+                (
+                    [betaX] => 77.9
+                    [alphaZ] => 84.9
+                    [gammaY] => 5.800000000000001
+                )
+
+            [frontPhoto] => Array
+                (
+                    [betaX] => 77.2
+                    [alphaZ] => 86.60000000000001
+                    [gammaY] => 13.4
+                )
+
+        )
+
+)
